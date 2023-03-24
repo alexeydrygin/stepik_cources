@@ -15,4 +15,5 @@
 ## 13. Клавиатуры: bookmarks_kb.py
 ## 14. Хэндлеры: other_handlers.py
 ## 15. Модуль filters.py
-
+## 16. Хэндлеры: user_handlers.py
+## 17. Собрать и запустить
