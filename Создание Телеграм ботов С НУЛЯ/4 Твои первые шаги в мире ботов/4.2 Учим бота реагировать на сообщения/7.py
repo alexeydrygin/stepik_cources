@@ -1,10 +1,11 @@
 from aiogram import Bot, Dispatcher, filters
 import asyncio
 from aiogram import Bot, Dispatcher, F
-from aiogram.filters.command import Command
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
 dp = Dispatcher()
+
+print("Программа выполняется.")
 
 # Создаем кнопки
 button_about = KeyboardButton(text="Обо мне")
